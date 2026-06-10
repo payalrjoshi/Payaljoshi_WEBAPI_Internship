@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <pid>1</pid>
+        <pname>LED TV 42"</pname>
+        <price>32000.00</price>
+        <qty>10</qty>
+    </product>
+    <product>
+        <pid>2</pid>
+        <pname>Bluetooth Speaker</pname>
+        <price>1500.00</price>
+        <qty>30</qty>
+    </product>
+    <product>
+        <pid>3</pid>
+        <pname>Wireless Mouse</pname>
+        <price>700.00</price>
+        <qty>50</qty>
+    </product>
+    <product>
+        <pid>4</pid>
+        <pname>Laptop Dell i5</pname>
+        <price>55000.00</price>
+        <qty>8</qty>
+    </product>
+    <product>
+        <pid>5</pid>
+        <pname>Smartphone Samsung</pname>
+        <price>22000.00</price>
+        <qty>15</qty>
+    </product>
+    <product>
+        <pid>6</pid>
+        <pname>Smart Watch</pname>
+        <price>3500.00</price>
+        <qty>20</qty>
+    </product>
+    <product>
+        <pid>7</pid>
+        <pname>Gaming Headset</pname>
+        <price>2500.00</price>
+        <qty>12</qty>
+    </product>
+    <product>
+        <pid>8</pid>
+        <pname>External HDD 1TB</pname>
+        <price>4500.00</price>
+        <qty>18</qty>
+    </product>
+    <product>
+        <pid>9</pid>
+        <pname>USB-C Charger</pname>
+        <price>1200.00</price>
+        <qty>25</qty>
+    </product>
+    <product>
+        <pid>10</pid>
+        <pname>Tablet Lenovo</pname>
+        <price>18000.00</price>
+        <qty>9</qty>
+    </product>
+    <product>
+        <pid>11</pid>
+        <pname>HDMI Cable 5m</pname>
+        <price>300.00</price>
+        <qty>40</qty>
+    </product>
+</products>
