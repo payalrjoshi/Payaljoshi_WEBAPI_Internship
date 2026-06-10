@@ -43,6 +43,4 @@ PHP, HTML, CSS, JavaScript, AJAX, XML, FPDF, Google reCAPTCHA, QR code libraries
 
 ---
 
-### MIT - License
-
-Licensed under the MIT License. See LICENSE for details.
+ 
