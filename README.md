@@ -13,6 +13,9 @@ This repository contains PHP practical assignments completed for the Web Develop
 5. QR Code Integration
 6. Google Captcha
 7. Excel Import Export
+8. REST API Integration
+9. Razorpay Payment Integration
+10. PHPMailer Integration
 
 ---
 
@@ -40,6 +43,9 @@ PHP, HTML, CSS, JavaScript, AJAX, XML, FPDF, Google reCAPTCHA, QR code libraries
 * **[QR Code] Integration:** Generates scannable, mobile-ready matrix codes.
 * **[reCAPTCHA] Security:** Deploys a Google bot-blocker to stop form spam.
 * **[Excel] Data Sync:** Handles massive bulk spreadsheet uploads and downloads.
+* **[REST API] Integration:** Connects and exchanges data with external web services securely.
+* **[Razorpay] Payment:** Processes secure, real-time online transactions smoothly.
+* **[PHPMailer] Emailing:** Sends automated and reliable HTML emails directly from the app.
 
 ---
 
